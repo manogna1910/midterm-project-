@@ -26,6 +26,13 @@ The analysis is structured according to a standard ML lifecycle, organized direc
 3. **PREPARE:** Data splitting, encoding categorical variables, scaling numerical features, and building preprocessing pipelines.
 4. **MODEL:** Training the Logistic Regression model, including configuring considerations for regularization and class weights.
 5. **ANALYZE:** Complete model evaluation detailing the confusion matrix, performance metrics, threshold tuning, and reasoning interpreted from the results.
+## Folder Contents
+This repository contains the following specific files and artifacts:
+- Another_copy_of_ITCS6100_Midterm_AppliedLab_Student_LogReg_(1)_(1).ipynb: The executed Google Colab Jupyter Notebook with the full Machine Learning lifecycle implementations.
+- README.md: This file, documenting the project structure and context.
+- Screenshot 2026-03-05 140151.png: Screenshot artifact from the project workflow.
+- group 5 work  proof image.png: Screenshot showing proof of group collaboration and work on the project.
+- image.png: Additional image artifact from the project.
 
 ## Deliverables
 - Fully executed Jupyter Notebook (`.ipynb`) containing all code, generated outputs, and analytical discussions.
